@@ -1,8 +1,1 @@
-f<<<<<< HEAD
-=f======
-=======
-dddafdfsa
-=======
->>>>>>> dev
-test dev
->>>>>>> dev
+... in learngit/test.txt
